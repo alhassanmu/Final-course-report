@@ -85,6 +85,8 @@ A preliminary experiment exposed *B. pharaonis* to acute heat stress, revealing 
 abundance of bacterial communities. Elevated temperature significantly increased Firmicutes, Cyanobacteria, 
 and Bacteroidota while decreasing Proteobacteria (fig. 2).
 
+![alt text](../images/Microbion_phylum%20level.png)
+
 Figure 2: Relative abundance of bacterial communities at the phylum level of *B. pharaonis* gut samples. Replicates are labelled with the numbers 1, 2, 3, and 4 (consider only the last numbers and only baseline has 4 samples)
 
 ## **5.0 Significance of the Research** 
