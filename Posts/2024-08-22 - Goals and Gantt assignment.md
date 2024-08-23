@@ -45,5 +45,7 @@ Analyze data and orally present the research findings at the IAAS annual confere
 months. 
 
 ![alt text](../images/Goals%20and%20gantt.png)
+
 ***M stands for month
+
 Figure: Shows experimental timelines using Gantt chart
