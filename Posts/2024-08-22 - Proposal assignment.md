@@ -76,7 +76,7 @@ software will create visualizations (histograms, heat maps, PCA plots) to analyz
 composition. LEfSe will identify specific bacterial taxa with differential abundance in response to 
 temperatures, with a log-transformed LDA score of 2 indicating significance. 
 
-![alt text](../images/Experimental%20procedures_proposal.png)
+![alt text](<Experimental procedures_proposal.png>)
 
 Figure 1: flow of the experimental procedures
 
@@ -85,7 +85,7 @@ A preliminary experiment exposed *B. pharaonis* to acute heat stress, revealing 
 abundance of bacterial communities. Elevated temperature significantly increased Firmicutes, Cyanobacteria, 
 and Bacteroidota while decreasing Proteobacteria (fig. 2).
 
-![alt text](../images/Microbion_phylum%20level.png)
+![alt text](<Microbion_phylum level.png>)
 
 Figure 2: Relative abundance of bacterial communities at the phylum level of *B. pharaonis* gut samples. Replicates are labelled with the numbers 1, 2, 3, and 4 (consider only the last numbers and only baseline has 4 samples)
 
