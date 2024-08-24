@@ -12,14 +12,17 @@ I could not identify the particular sequence that codes for HSP70 in *B. pharaon
 
 I then aligned the five downloaded sequences using  [CLUSTALW](https://www.genome.jp/tools-bin/clustalw). This helped me identify the conserved and variable regions of the sequences. I proceeded with the conserved regions for the primer design.
 
-![alt text](../images/Alignment_Mytilus.png)  
+
+![alt text](Alignment_Mytilus.png)  
+
 Figure 1: Multiple sequence alignment of the *Mytilus* species
 
 ## **Picking of Primers**
 
 I visited the [Primer3](https://primer3.ut.ee/) website for the primer design. I pasted the conserved sequence and set the primer size range to 1000-1500 base pairs, then clicked on "Pick Primers."
 
-![alt text](../images/Primer_hsp70.png)
+![alt text](Primer_hsp70.png)
+
 Figure 2: Primer designed for HSP70 detection
 
 # **Reason for selecting HSP70 as my gene of interest**
@@ -70,7 +73,8 @@ To ensure accurate and reliable quantification of HSP70 expression levels, it is
 
 4. **In the mantle tissue:** The most suitable combination of reference genes for normalization was GAPDH, rps4, and 40S ribosomal protein S27.
 
-![alt text](../images/MSA%20and%20primer%20design_GAPDH.png)
+![alt text](<MSA and primer design_GAPDH.png>)
+
 Figure 3: Multiple sequence alignments and primer design of sequences for the reference gene, GAPDH. 
 
 Before finalizing the reference genes, I will perform a preliminary validation to ensure their stability under the specific experimental conditions of my study. This validation will involve assessing the expression stability of these candidate reference genes across all samples and conditions.
