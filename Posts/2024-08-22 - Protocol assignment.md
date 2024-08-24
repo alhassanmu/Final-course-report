@@ -23,6 +23,7 @@
 8. Sequence pooled samples using Illumina HiSeq 2500 platform.
 
 ![alt text](<Experimental design for studying oxidative stress and microbiome.png>)
+
 Figure 1: Experimental design for studying oxidative stress and microbiome analysis in *B. pharaonis*
 
 | Jar number | Temperature (°C) | Mussel count | Initial WTW (ml/O<sub>2</sub>/min) | Final WTW (ml/O<sub>2</sub>/min) | WTW (%) |
