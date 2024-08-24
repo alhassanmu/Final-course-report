@@ -1,6 +1,7 @@
 # **Primer Design for *Endozoicomonas*, a Genus of γ-Proteobacteria in the Family *Endozoicomonadaceae***
 
-![alt text](../images/Primers.png)   
+![alt text](Primers.png)
+
 Figure 1: Showing foward and reverse primers used in Polymerase Chain Reaction 
 
 ## **Selection of Sequences**
@@ -15,7 +16,8 @@ I then aligned the four downloaded sequences using  [CLUSTALW](https://www.genom
 
 I visited the [Primer3](https://primer3.ut.ee/) website for the primer design. I pasted the conserved sequence and set the primer size range to 1000-1500 base pairs, then clicked on "Pick Primers."
 
-![alt text](../images/Primer%20picking%20result.png)
+![alt text](<Primer picking result.png>)
+
 Figure 2: [Primer picking result](https://primer3.ut.ee/cgi-bin/primer3/primer3web_results.cgi)
 
 ## **Phylogenetic Tree Analysis**
@@ -27,5 +29,6 @@ On the MEGA 11 software interface, I clicked on "Phylogeny" and selected "Constr
 
 The phylogenetic analysis revealed that *Endozoicomonas gorgoniicola* is more closely related to *Endozoicomonas numazuensis*.
 
-![alt text](../images/Phylogenetic%20tree%20for%20endozoicomonas%20sequences.png)
+![alt text](<Phylogenetic tree for endozoicomonas sequences.png>)
+
 Figure 3: Phylogenetic tree generated from the four sequences of *Endozoicomonas* spp.
