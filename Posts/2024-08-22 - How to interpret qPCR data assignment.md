@@ -55,7 +55,7 @@ This method assumes that the PCR efficiencies of the target and reference genes 
 |----------------|------|------|-------|-------|------|-------|-------------|
 | **Value**      | 0.72 | 0.94 | 1.17  | 0.70  | 1.03 | 0.69  | 0.32        |
 
-![alt text](../images/qPCR%20data%20analysis_Prashant's%20data.png)   
+![alt text](<qPCR data analysis_Prashant's data.png>)  
 Figure 1: Various gene expressions 
 
 ## **Conclusion**
