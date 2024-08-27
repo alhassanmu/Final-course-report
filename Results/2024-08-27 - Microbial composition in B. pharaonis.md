@@ -1,4 +1,4 @@
-# **Acute thermal stress changed the microbiome composition of B. pharaonis**
+# **Acute thermal stress changed the microbiome composition of *B. pharaonis***
 
 # **Methodology**
 To conduct the study, adult *Brachidontes pharaonis* mussels were collected and acclimated in microcosm chambers before being exposed to acute thermal stress across three temperature gradients for three days. Gut samples were then dissected for microbiome DNA extraction, PCR amplification, and 16S rRNA gene sequencing. The resulting data were analyzed using statistical and bioinformatics tools to assess microbial diversity and identify bacterial taxa with differential abundance across the temperature treatments.
