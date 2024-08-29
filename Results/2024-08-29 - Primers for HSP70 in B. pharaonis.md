@@ -2,3 +2,7 @@
 
 To design the forward and reverse primers for this purpose, I accessed the NCBI website and downloaded the FASTA sequences of mussel HSP70. I aligned these sequences (Figure 1A) to identify the conserved and variable regions, focusing on the conserved regions for primer design. Using Primer3, I generated the primers based on these conserved regions (Figure 1B).
 
+![alt text](<Alignment and primers HSP70_result.png>)
+
+Figure 1: **Multiple Sequence Alignment of mussels (A) and Primer Design for HSP70 Detection (B)**
+
