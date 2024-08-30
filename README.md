@@ -54,6 +54,8 @@ This section contains the resulting analysis of data from the photo-survey of be
 
 ## **Molecular Network in GNPS**
 
+I created a molecular network using Global Natural Products Social Molecular Networking (GNPS). I submitted a job to create a network, which took time to complete. After the job, I explored a molecular family, including neutral losses, using the "LibraryID" option. I also compared the spectra of two compounds and added them as figures.
+
 
 
 
