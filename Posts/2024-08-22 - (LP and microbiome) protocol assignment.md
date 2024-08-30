@@ -22,7 +22,7 @@
 7. Prepare three cDNA libraries with primers tagged with specific barcodes, purify amplicons at equimolar concentrations, and pool samples.
 8. Sequence pooled samples using Illumina HiSeq 2500 platform.
 
-![alt text](image-1.png)
+![alt text](<Experimental design for studying oxidative stress and microbiome-1.png>)   
 Figure 1: Experimental design for studying oxidative stress and microbiome analysis in *B. pharaonis*
 
 | Jar number | Temperature (°C) | Mussel count | Initial WTW (ml/O<sub>2</sub>/min) | Final WTW (ml/O<sub>2</sub>/min) | WTW (%) |

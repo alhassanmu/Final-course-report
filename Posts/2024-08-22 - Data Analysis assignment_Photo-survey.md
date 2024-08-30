@@ -26,20 +26,17 @@ I began by loading and examining the contents of the two provided CSV files. Thi
 
  Next, I performed statistical tests to determine if the 3 variables have significant effects on algae coverage as shown in figure 2. I used ART ANOVA since the data have multiple groups for each variable and not normally distributed. The ART ANOVA test indicated that algae coverage varies significantly with site and seafloor depth, but not with season.
 
-![alt text](<Algae, site, depth, and season.png>)
-
+![alt text](<Algae, site, depth, and season.png>) 
 Figure 1: Boxplots showing how algae coverage varies by site, season, and seafloor depth
 
-![alt text](ANOVA.png)
-
+![alt text](ANOVA.png)  
 Figure 2: ANOVA results showing the effects of site, season, and seafloor depth on algae coverage
 
 ## **There was no significant difference in algae coverage between the two samplers**
 
 To check for differences in algae coverage between the two samplers, I conducted an additional test. The results showed no significant difference (*P-value* = 0.408) between the two samplers (figure 3).
 
-![alt text](<Algae vs sample.png>)
-
+![alt text](<Algae vs sample.png>)  
 Figure 3: Boxplot of algae coverage between the two samplers
 
 ## **Exploring Algae-Bryozoa interaction using Log-transformed data and Benjamini-Hochberg correction**
@@ -50,8 +47,7 @@ The choice for examining the correlation between algae and bryozoa from the data
 
 The correlation between algae and bryozoa was visualized using a scatter plot (figure 4). I transformed the square matrix to a log format and adjusted the *P-value* using the Benjamini-Hochberg (BH) method. I downloaded an output file name “Taxonomic_groups_spearman”.
 
-![alt text](<Correlation (Algae vs Bryozoa).png>)
-
+![alt text](<Correlation (Algae vs Bryozoa).png>)  
 Figure 4: Spearman correlation between algae and Bryozoa
 
 ## **Conclusion**
