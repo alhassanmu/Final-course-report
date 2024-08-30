@@ -44,6 +44,6 @@ oil pollution on *B. pharaonis*.
 Analyze data and orally present the research findings at the IAAS annual conference with the next 3 
 months.  
 
-![alt text](../images/Goals%20and%20gantt.png)  
+![alt text](<Goals and gantt-1.png>)
 ***M stands for month  
 Figure: Shows experimental timelines using Gantt chart
