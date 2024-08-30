@@ -2,6 +2,5 @@
 
 Using the SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) strategy, I developed the figure below to guide the investigation into the synergistic effects of thermal stress and oil pollution on the gut microbiome of *Brachidontes pharaonis*.
 
-![alt text](<Goals and gantt.png>)
-
+![alt text](<Goals and gantt.png>)  
 ***M stands for Month 

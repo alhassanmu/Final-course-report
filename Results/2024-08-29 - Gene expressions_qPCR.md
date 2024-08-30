@@ -6,6 +6,5 @@ The Delta-Delta Ct (ΔΔCt) method or Livak was employed. This method is commonl
 
 After the data analysis, it could be concluded that only CDC42 and VegfR were upregulated since the fold change value of the reference gene (ubi) was 1.
 
-![alt text](<qPCR data analysis_Prashant's data.png>)
-
+![alt text](<qPCR data analysis_Prashant's data.png>) 
 Figure: Level of gene expressions

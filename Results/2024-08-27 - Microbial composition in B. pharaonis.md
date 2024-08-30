@@ -5,14 +5,12 @@ To conduct the study, adult *Brachidontes pharaonis* mussels were collected and 
 
 The experimental flow is illustrated below:
 
-![alt text](<Experimental procedures_proposal.png>)
-
+![alt text](<Experimental procedures_proposal.png>)  
 Figure 1: Flow of the experimental procedures
 
 # **Results** 
 
 Following the experiment in which *B. pharaonis* was exposed to acute heat stress, notable shifts in the relative abundance of bacterial communities were observed. Elevated temperatures led to a significant increase in Firmicutes, Cyanobacteria, and Bacteroidota, while Proteobacteria levels decreased. 
 
-![alt text](<Microbion_phylum level.png>)
-
+![alt text](<Microbion_phylum level.png>)  
 Figure 2: Relative abundance of bacterial communities at the phylum level of *B. pharaonis* gut samples

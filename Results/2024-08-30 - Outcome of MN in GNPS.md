@@ -3,3 +3,4 @@
 I initiated a job and it was successfully done. I explored a molecular family including the neutral losses. I then proceeded to compare the spectra of the two compounds and added it as a figure.
 
 ![alt text](<MN result.png>)
+Figure: MN job done (A), exploration of forskolin (B), and comparison of spectra of two compounds (C)
